@@ -1,4 +1,4 @@
-# MinComplexityMorphoAnalogies
+# Solving morphological analogies based on a minimal complexity transformation
 
 Implementation of the algorithm described in "Solving analogies on words based on minimal complexity transformation" (Murena, P.-A., Al-Ghossein, M., Dessalles, J.-L. and Cornuéjols, A., IJCAI 2020). 
 Link: https://www.ijcai.org/Proceedings/2020/0256.pdf 
